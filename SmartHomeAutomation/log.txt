@@ -1,0 +1,37 @@
+[2025-04-22 10:36:23] Fan turned ON
+[2025-04-22 10:36:35] Fan turned OFF (Sleep Auto-Shutdown)
+[2025-04-22 10:46:17] Fan turned ON
+[2025-04-22 10:46:24] Fan turned OFF (Auto shutdown)
+[2025-04-22 10:46:54] Fan turned ON
+[2025-04-22 10:47:12] Fan turned OFF (Auto shutdown)
+[2025-04-22 10:50:26] Fan turned ON
+[2025-04-22 10:50:38] Fan turned OFF (Auto shutdown)
+[2025-04-22 10:50:52] Thermostat turned ON
+[2025-04-22 10:51:01] Thermostat turned OFF (Auto shutdown)
+[2025-04-22 10:51:06] Thermostat turned ON
+[2025-04-22 10:51:24] Thermostat turned OFF (Auto shutdown)
+[2025-04-22 10:53:26] Fan turned ON
+[2025-04-22 10:53:38] Fan turned OFF (Auto shutdown)
+[2025-04-22 10:53:45] Fan turned ON
+[2025-04-22 11:00:25] Fan turned ON
+[2025-04-22 11:01:09] Thermostat turned ON
+[2025-04-22 11:01:10] Fan turned ON
+[2025-04-22 11:01:11] Light turned ON
+[2025-04-22 11:01:47] Fan turned OFF
+[2025-04-22 11:01:49] Thermostat turned OFF
+[2025-04-22 11:01:50] Light turned OFF
+[2025-04-22 11:01:54] Fan turned ON
+[2025-04-22 11:02:01] Thermostat turned ON
+[2025-04-22 11:02:04] Light turned ON
+[2025-04-22 11:02:05] Fan turned OFF (Auto shutdown)
+[2025-04-22 11:02:13] Thermostat turned OFF (Auto shutdown)
+[2025-04-22 11:02:21] Light turned OFF (Auto shutdown)
+[2025-04-22 11:02:34] Light turned ON
+[2025-04-22 11:04:34] Fan turned ON
+[2025-04-22 11:05:16] Thermostat turned ON
+[2025-04-22 11:05:17] Light turned ON
+[2025-04-22 11:05:52] Fan turned OFF (Auto shutdown)
+[2025-04-22 11:06:10] Thermostat turned OFF (Auto shutdown)
+[2025-04-22 11:06:14] Light turned OFF (Auto shutdown)
+[2025-04-22 11:06:22] Fan turned ON
+[2025-04-22 11:06:24] Thermostat turned ON
